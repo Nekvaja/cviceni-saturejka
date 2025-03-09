@@ -11,7 +11,7 @@ h2 {
 }
 
 body {
-    background-color: #ffefef;
+    background-color: #ffefef;    
 }
 
 .hlavnistrana {
@@ -21,5 +21,19 @@ body {
 }
 
 h1 {
-    
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+}
+
+.hlavicka {
+    text-align: center;
+}
+
+.hlavnistrana img {
+    width: 32%;
+}
+
+.uvod {
+    text-align: center;
 }
